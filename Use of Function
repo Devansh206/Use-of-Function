@@ -1,0 +1,27 @@
+#include<stdio.h>
+void argentina();
+void italy();
+void in();
+int main()
+{
+  printf("i m in main \n");
+  argentina();
+  italy();
+  in();
+  return 0;
+}
+void argentina()
+{
+  printf("i m in argentina \n");
+ }
+ void italy()
+ {
+    printf("i m in italy \n");
+  }
+  void in()
+  {
+    printf("i m in in \n");
+  }
+  
+  
+  
